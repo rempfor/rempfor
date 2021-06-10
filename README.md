@@ -17,7 +17,7 @@
 <p align="center" style="color:#e147ec; font-size:90px"> ⦑ ʀᴇᴍᴘꜰᴏʀ ⦒</p>
   <p align="center"> - 👋 Hi, I’m @rempfor</p>
     <p align="center"> - 👀 I'm interested in nothing, for I am a lazy seal...</p>
-      <p align="center"> - 🌱 I’m currently learning, for I am a lazy seal...</p>
+      <p align="center"> - 🌱 I’m currently a try learning, for I am a lazy seal...</p>
         <p align="center"> - 💞️ Thank you for loving me like that...</p>
           <p align="center"> - 📫 How to reach me: Almost everywhere I am signed as @rempfor, or a similar variation of the nickname...</p>
             <a href="https://emoji.gg/emoji/3128-peperuncry"><img src="https://emoji.gg/assets/emoji/3128-peperuncry.gif" width="64px" height="64px" alt="pepeRunCry"></a>
