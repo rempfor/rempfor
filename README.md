@@ -46,3 +46,12 @@
   |     Language      |           y.o           |           Name          |
   |:-----------------:|:-----------------------:|:-----------------------:|
   |     Russian       |           18+           |         Alexandr        |
+
+&nbsp;
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=rempfor&theme=radical" alt="rempfor" />
+    </a>
+</p>
+&nbsp;
